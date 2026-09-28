@@ -45,7 +45,7 @@ Two paths, both starting at [ript.fun/partners](https://ript.fun/partners).
 </td>
 <td width="42%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/Ript-fun/.github/main/assets/phone.jpg" width="260" alt="Card Scan on a phone" />
+<img src="https://raw.githubusercontent.com/Ript-fun/.github/main/assets/phone.png" width="260" alt="Card Scan on a phone" />
 
 </td>
 </tr>
